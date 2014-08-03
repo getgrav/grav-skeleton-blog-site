@@ -1,0 +1,24 @@
+name: Taxonomy List Plugin
+version: 1.0.0
+description: This is a basic taxonomy list plugin for Grav.
+validation: strict
+
+form:
+  fields:
+    enabled:
+      type: toggle
+      label: Plugin status
+      highlight: 1
+      default: 0
+      options:
+        1: Enabled
+        0: Disabled
+      validate:
+        type: bool
+
+    route:
+      type: text
+      label: Route to blog
+      placeholder: /blog
+      validate:
+        pattern: "/([a-z\-_]+/?)+"
