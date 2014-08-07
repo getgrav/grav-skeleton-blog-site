@@ -1,10 +1,3 @@
-plugins/error
-plugins/breadcrumbs
-plugins/feed
-plugins/pagination
-plugins/problems
-plugins/random
-plugins/sitemap
-plugins/taxonomylist
-themes/antimatter
+plugins/*
+themes/*
 data/*
