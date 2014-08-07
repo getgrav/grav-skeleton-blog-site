@@ -1,9 +1,0 @@
-{% set crumbs = breadcrumbs.get() %}
-
-{% if crumbs|length > 1 %}
-<div id="breadcrumbs">
-    {% for crumb in crumbs %}
-    <a href="{{ crumb.url }}">{{ crumb.menu }}</a><i class="fa fa-angle-right"></i>
-    {% endfor %}
-</div>
-{% endif %}
