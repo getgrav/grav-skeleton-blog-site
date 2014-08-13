@@ -1,0 +1,42 @@
+{
+   "project":"grav-skeleton-blog-site",
+   "platforms":{
+      "grav":{
+         "nodes":{
+            "skeleton":[
+               {
+                  "source":"/",
+                  "destination":"/user"
+               }
+            ],
+            "breadcrumbs plugin":[{
+               "project":"grav-plugin-breadcrumbs"
+            }],
+            "error plugin":[{
+               "project":"grav-plugin-error"
+            }],
+            "feed plugin":[{
+               "project":"grav-plugin-feed"
+            }],
+            "pagination plugin":[{
+               "project":"grav-plugin-pagination"
+            }],
+            "problems plugin":[{
+               "project":"grav-plugin-problems"
+            }],
+            "random plugin":[{
+               "project":"grav-plugin-random"
+            }],
+            "sitemap plugin":[{
+               "project":"grav-plugin-sitemap"
+            }],
+            "taxonomylist plugin":[{
+               "project":"grav-plugin-taxonomylist"
+            }],
+            "antimatter theme":[{
+               "project":"grav-theme-antimatter"
+            }]
+         }
+      }
+   }
+}
