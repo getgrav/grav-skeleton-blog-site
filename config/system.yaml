@@ -3,6 +3,7 @@ home:
 
 pages:
   theme: antimatter
+  markdown_extra: false
   process:
     markdown: true
     twig: false
