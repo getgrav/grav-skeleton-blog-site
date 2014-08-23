@@ -1,4 +1,8 @@
 git:
+    archives:
+        url: https://github.com/getgrav/grav-plugin-archives
+        path: user/plugins/archives
+        branch: develop
     breadcrumbs:
         url: https://github.com/getgrav/grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
@@ -36,6 +40,10 @@ git:
         path: user/themes/antimatter
         branch: develop
 links:
+    archives:
+        src: grav-plugin-archives
+        path: user/plugins/archives
+        scm: github
     breadcrumbs:
         src: grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
