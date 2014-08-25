@@ -3,4 +3,5 @@ author:
   name: Joe Bloggs
   email: 'joe@test.com'
 description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+taxonomies: [category,tag,month]
 
