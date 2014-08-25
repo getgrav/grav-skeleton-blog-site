@@ -7,9 +7,6 @@ pages:
   process:
     markdown: true
     twig: false
-  events:
-    page: true
-    twig: true
 
 cache:
   enabled: true
@@ -29,10 +26,11 @@ assets:
   css_minify: true
   css_rewrite: true
   js_pipeline: false
-  js_minify: true  
+  js_minify: true
 
 debugger:
   enabled: true
+  strict: false
   max_depth: 10
   log:
     enabled: false
