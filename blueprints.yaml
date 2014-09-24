@@ -1,0 +1,12 @@
+name: Blog Site
+version: 0.9.2
+description: "The **Blog Skeleton** provides you with sample blog content and plugins including: **Pagination**, **Breadcrumbs**, and **Taxonomy List**."
+icon: comments
+author:
+  name: Team Grav
+  email: devs@getgrav.org
+homepage: http://getgrav.org
+demo: http://demo.getgrav.org/blog-skeleton
+keywords: blog, skeleton, pagination, breadcrumbs, taxonomy
+bugs: https://github.com/getgrav/grav-skeleton-blog-site/issues
+license: MIT
