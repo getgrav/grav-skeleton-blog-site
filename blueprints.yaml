@@ -5,7 +5,8 @@ icon: comments
 author:
   name: Team Grav
   email: devs@getgrav.org
-homepage: http://getgrav.org
+  url: http://getgrav.org
+homepage: https://github.com/getgrav/grav-skeleton-blog-site
 demo: http://demo.getgrav.org/blog-skeleton
 keywords: blog, skeleton, pagination, breadcrumbs, taxonomy
 bugs: https://github.com/getgrav/grav-skeleton-blog-site/issues
