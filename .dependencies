@@ -27,6 +27,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-random
         path: user/plugins/random
         branch: develop
+    relatedpages:
+        url: https://github.com/getgrav/grav-plugin-relatedpages
+        path: user/plugins/relatedpages
+        branch: develop    
     simplesearch:
         url: https://github.com/getgrav/grav-plugin-simplesearch
         path: user/plugins/simplesearch
@@ -72,6 +76,10 @@ links:
         src: grav-plugin-random
         path: user/plugins/random
         scm: github
+    relatedpages:
+        src: grav-plugin-relatedpages
+        path: user/plugins/relatedpages
+        scm: github    
     simplesearch:
         src: grav-plugin-simplesearch
         path: user/plugins/simplesearch
