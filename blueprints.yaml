@@ -8,6 +8,6 @@ author:
   url: http://getgrav.org
 homepage: https://github.com/getgrav/grav-skeleton-blog-site
 demo: http://demo.getgrav.org/blog-skeleton
-keywords: blog, skeleton, pagination, breadcrumbs, taxonomy, archives
+keywords: blog, skeleton, pagination, breadcrumbs, taxonomy, archives, relatedpages
 bugs: https://github.com/getgrav/grav-skeleton-blog-site/issues
 license: MIT
