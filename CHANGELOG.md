@@ -1,3 +1,9 @@
+# v1.0.1
+## 01/23/2015
+
+1. [](#improved)
+    * Added a sample "Daring Fireball" style link page
+
 # v1.0.0
 ## 12/21/2014
 
