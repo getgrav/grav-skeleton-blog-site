@@ -2,51 +2,51 @@ git:
     archives:
         url: https://github.com/getgrav/grav-plugin-archives
         path: user/plugins/archives
-        branch: develop
+        branch: master
     breadcrumbs:
         url: https://github.com/getgrav/grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
-        branch: develop
+        branch: master
     error:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
-        branch: develop
+        branch: master
     feed:
         url: https://github.com/getgrav/grav-plugin-feed
         path: user/plugins/feed
-        branch: develop
+        branch: master
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
-        branch: develop
+        branch: master
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
-        branch: develop
+        branch: master
     random:
         url: https://github.com/getgrav/grav-plugin-random
         path: user/plugins/random
-        branch: develop
+        branch: master
     relatedpages:
         url: https://github.com/getgrav/grav-plugin-relatedpages
         path: user/plugins/relatedpages
-        branch: develop    
+        branch: master    
     simplesearch:
         url: https://github.com/getgrav/grav-plugin-simplesearch
         path: user/plugins/simplesearch
-        branch: develop
+        branch: master
     sitemap:
         url: https://github.com/getgrav/grav-plugin-sitemap
         path: user/plugins/sitemap
-        branch: develop
+        branch: master
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
-        branch: develop
+        branch: master
     antimatter:
         url: https://github.com/getgrav/grav-theme-antimatter
         path: user/themes/antimatter
-        branch: develop
+        branch: master
 links:
     archives:
         src: grav-plugin-archives
