@@ -1,3 +1,11 @@
+# v1.1.0
+## 12/11/2015
+
+1. [](#new)
+	* Added some redirect examples
+1. [](#improved)
+    * removed deprecated `markdown_extra` setting
+
 # v1.0.1
 ## 01/23/2015
 
