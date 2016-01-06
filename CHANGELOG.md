@@ -1,3 +1,9 @@
+# v1.1.1
+## 01/06/2016
+
+1. [](#improved)
+    * removed unused `authors` pages
+
 # v1.1.0
 ## 12/11/2015
 
