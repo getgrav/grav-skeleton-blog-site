@@ -1,6 +1,14 @@
 ---
 title: Focus and Blur
+subtitle: This is a subtitle below the title
 date: 13:34 06/21/2014 
+enigma:
+    hero:
+        overlay: false
+        size: medium
+    blog:
+        taxonomy: hero
+        date: hero
 taxonomy:
     category: blog
     tag: [ocean, birds, photography]

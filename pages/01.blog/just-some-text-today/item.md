@@ -2,6 +2,13 @@
 title: Just Some Text Today
 date: 13:34 06/23/2014 
 continue_link: false
+enigma:
+    header:
+        style: light
+    hero:
+        style: light
+        background: '#3A539B'
+        
 taxonomy:
     category: blog
     tag: [journal]

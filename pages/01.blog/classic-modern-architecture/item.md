@@ -1,6 +1,19 @@
 ---
 title: Classic Modern Architecture
 date: 17:34 06/27/2014 
+enigma:
+    header:
+        style: light
+    blog:
+        title: hero
+        date: hero
+        taxonomy: header
+        show_sidebar: false
+    hero:
+        image: unsplash_has_bonk.jpg
+        background: none
+        size: medium
+        style: light
 taxonomy:
     category: blog
     tag: [architecture, photography]

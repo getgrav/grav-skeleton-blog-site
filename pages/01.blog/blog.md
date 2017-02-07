@@ -1,7 +1,15 @@
 ---
 title: Home
 blog_url: blog
-body_classes: header-image fullwidth
+
+enigma:
+    hero:
+        style: dark
+        size: fullscreen
+        overlay: false
+    blog:
+        date: footer
+        taxonomy: footer
 
 sitemap:
     changefreq: monthly
@@ -22,5 +30,5 @@ feed:
 pagination: true
 ---
 
-# My Gravtastic Blog
-## A tale of **awesomazing** adventures
+# Enigmas Wrapped in Conundrums
+#### The awesomazing new **Grav** default theme
