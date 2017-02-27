@@ -1,22 +1,10 @@
 ---
 title: Random Thoughts
 date: 13:34 05/26/2014 
-enigma:
-    header:
-        style: light
-    hero:
-        style: light
-        background: '#9B59B6'
-        size: tiny
-    blog:
-        title: off
-
 taxonomy:
     category: blog
     tag: [journal]
 ---
-
-# Custom Random Title
 
 Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc. Mauris mattis nunc sed mi sagittis et facilisis tortor volutpat. Etiam tincidunt urna mattis erat placerat placerat ac eu tellus.
 

@@ -1,13 +1,6 @@
 ---
 title: London Industry at Night
 date: 13:34 06/07/2014 
-enigma:
-    header:
-        style: light
-    hero:
-        image: unsplash_martin_wessely.jpg
-        style: light
-        size: large
 taxonomy:
     category: blog
     tag: [city, night, photography]

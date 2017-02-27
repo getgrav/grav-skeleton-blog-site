@@ -2,13 +2,13 @@ home:
   alias: '/blog'
 
 pages:
-  theme: enigma
+  theme: antimatter
   process:
     markdown: true
     twig: false
 
 cache:
-  enabled: false
+  enabled: true
   check:
     method: file
   driver: auto
@@ -27,11 +27,8 @@ assets:
   js_pipeline: false
   js_minify: true
 
-errors:
-  display: 1
-
 debugger:
-  enabled: true
+  enabled: false
   twig: true
   shutdown:
     close_connection: true

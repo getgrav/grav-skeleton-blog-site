@@ -1,17 +1,6 @@
 ---
 title: The Urban Jungle
-date: 17:34 07/04/2014
-body_classes: header-light
-enigma:
-    header:
-        position: relative
-    blog:
-        title: content
-        date: header
-        taxonomy: footer
-    hero:
-        background: '#336E7B'
-        size: off
+date: 17:34 07/04/2014 
 taxonomy:
     category: blog
     tag: [travel, photography, city]

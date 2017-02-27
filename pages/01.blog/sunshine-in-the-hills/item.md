@@ -1,20 +1,7 @@
 ---
 title: Sunshine in the Hills
-subtitle: Do awesomazing things with Grav
 date: 14:55 07/11/2014
 author: Tasha Maxwell
-slug: schnizzle-in-the-hills
-enigma:
-    header:
-        style: light
-    hero:
-        style: light
-        size: fullscreen
-    blog:
-        taxonomy: hero
-        date: hero
-routes:
-    canonical: 'foo/bar/canonical'
 taxonomy:
     category: blog
     tag: [journal, photography]

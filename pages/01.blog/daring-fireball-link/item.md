@@ -1,14 +1,8 @@
 ---
-title: Daring Fireball Link
+title: Just Some Text Today
 date: 13:34 07/10/2014
+continue_link: true
 link: http://daringfireball.net
-enigma:
-    hero:
-        size: off
-    blog:
-        title: content
-        show_sidebar: false
-        
 taxonomy:
     category: blog
     tag: [journal, link]
