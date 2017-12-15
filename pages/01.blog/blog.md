@@ -3,8 +3,11 @@ title: Home
 blog_url: blog
 text_align: center
 
-showcase_classes: parallax text-light overlay-dark
-showcase_image: jellyfish.jpg
+hero_classes: text-light overlay-dark-gradient
+hero_image: road.jpg
+
+show_sidebar: true
+show_breadcrumbs: true
 
 sitemap:
     changefreq: monthly
@@ -25,5 +28,5 @@ feed:
 pagination: true
 ---
 
-# My Grav Blog
-## **awesomazing adventures**
+# My **Grav**tastic Blog
+## the ramblings of a rambler
