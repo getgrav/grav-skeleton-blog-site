@@ -2,13 +2,13 @@ home:
   alias: '/blog'
 
 pages:
-  theme: antimatter
+  theme: quark
   process:
     markdown: true
     twig: false
 
 cache:
-  enabled: true
+  enabled: false
   check:
     method: file
   driver: auto

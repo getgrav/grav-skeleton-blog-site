@@ -1,7 +1,10 @@
 ---
 title: Home
 blog_url: blog
-body_classes: header-image fullwidth
+text_align: center
+
+showcase_classes: parallax text-light overlay-dark
+showcase_image: jellyfish.jpg
 
 sitemap:
     changefreq: monthly
@@ -22,5 +25,5 @@ feed:
 pagination: true
 ---
 
-# My Gravtastic Blog
-## A tale of **awesomazing** adventures
+# My Grav Blog
+## **awesomazing adventures**
