@@ -3,7 +3,9 @@ title: Home
 blog_url: blog
 text_align: center
 
-hero_classes: text-light overlay-dark-gradient
+body_classes: header-dark header-transparent
+
+hero_classes: text-light title-center parallax overlay-dark-gradient
 hero_image: road.jpg
 
 show_sidebar: true
