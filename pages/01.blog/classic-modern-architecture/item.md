@@ -1,6 +1,13 @@
 ---
 title: Classic Modern Architecture
 date: 17:34 06/27/2014 
+
+subtitle: finding beauty in structure
+
+hero_classes: text-dark title-center parallax overlay-light-gradient
+hero_image: unsplash_has_bonk.jpg
+show_sidebar: false
+
 taxonomy:
     category: blog
     tag: [architecture, photography]
