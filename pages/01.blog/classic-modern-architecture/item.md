@@ -8,6 +8,7 @@ hero_classes: text-dark title-center parallax overlay-light-gradient
 hero_image: unsplash_has_bonk.jpg
 show_sidebar: false
 
+
 taxonomy:
     category: blog
     tag: [architecture, photography]
