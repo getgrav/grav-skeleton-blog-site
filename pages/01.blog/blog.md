@@ -1,11 +1,11 @@
 ---
 title: Home
 blog_url: blog
-text_align: center
 body_classes: header-dark header-transparent
 
-hero_classes: text-light title-h1h2 parallax overlay-dark-gradient hero-large
+hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large
 hero_image: road.jpg
+hero_align: center
 
 show_sidebar: true
 show_breadcrumbs: true
