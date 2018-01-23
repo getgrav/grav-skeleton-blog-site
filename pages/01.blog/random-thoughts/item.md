@@ -1,16 +1,52 @@
 ---
 title: Random Thoughts
-date: 13:34 05/26/2014 
+date: 13:34 05/26/2017 
 taxonomy:
     category: blog
     tag: [journal]
 ---
 
-Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc. Mauris mattis nunc sed mi sagittis et facilisis tortor volutpat. Etiam tincidunt urna mattis erat placerat placerat ac eu tellus.
+Lorem markdownum mirum. Solus restare dabat, gladio vipereis caerula?
+
+Nos me quem cura ambo capillos vibrata terram, precor insignia liquidis viderit.
+Obstitit subitis lacrimis Fames canendo, [herbas lupi
+formosis](http://in-de.io/et) coniunx scilicet Neptunus.
+
+> Animam non fatus: per animal Iolao baculo digitos ad tergo. Ultra cribri
+> condas! Parabat non canities domos ambo canaeque Pulchrior vident. **Foramina
+> uterum**, est serpit gente **horrescere**, sed cineres, Iove mea mihi mensum
+> profundum, in.
 
 ===
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies tristique nulla et mattis. Phasellus id massa eget nisl congue blandit sit amet id ligula. Praesent et nulla eu augue tempus sagittis. Mauris faucibus nibh et nibh cursus in vestibulum sapien egestas. Curabitur ut lectus tortor. Sed ipsum eros, egestas ut eleifend non, elementum vitae eros. Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc. Mauris mattis nunc sed mi sagittis et facilisis tortor volutpat. Etiam tincidunt urna mattis erat placerat placerat ac eu tellus. Ut nec velit id nisl tincidunt vehicula id a metus. Pellentesque erat neque, faucibus id ultricies vel, mattis in ante. Donec lobortis, mauris id congue scelerisque, diam nisl accumsan orci, condimentum porta est magna vel arcu. Curabitur varius ante dui. Vivamus sit amet ante ac diam ullamcorper sodales sed a odio. Curabitur ut lectus tortor. Sed ipsum eros, egestas ut eleifend non, elementum vitae eros. Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc.
+## Sit in facinus patruus deducens in multaque
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies tristique nulla et mattis. Phasellus id massa eget nisl congue blandit sit amet id ligula. Praesent et nulla eu augue tempus sagittis. Mauris faucibus nibh et nibh cursus in vestibulum sapien egestas. Curabitur ut lectus tortor. Sed ipsum eros, egestas ut eleifend non, elementum vitae eros. Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc. Mauris mattis nunc sed mi sagittis et facilisis tortor volutpat. Etiam tincidunt urna mattis erat placerat placerat ac eu tellus. Ut nec velit id nisl tincidunt vehicula id a metus. Pellentesque erat neque, faucibus id ultricies vel, mattis in ante. Donec lobortis, mauris id congue scelerisque, diam nisl accumsan orci, condimentum porta est magna vel arcu. Curabitur varius ante dui. Vivamus sit amet ante ac diam ullamcorper sodales sed a odio.
+Hanc quam magni iussae habent, ira face alasque invidet? Radix umeris colla,
+trieterica magni arbore conplexae dixit Pleuronius raptusque. Matris somnos, cum
+si corpus se saepe tota Lycus, ferendo phoenica ante caelo.
+
+    gigoDdr(40, 3, sdram_kvm + webPmu(keylogger, real, 30));
+    if (memory.trinitron_bar_format(5 + session_fragmentation_hypermedia)) {
+        character(hfsRecordName * address_sector_tunneling,
+                association_toggle_touchscreen);
+        timeCore(rtf_rj);
+        frame = commerce_dhcp;
+    }
+    protocol_lcd_x(crossZip, isdn, defaultDisk);
+    if (golden_supply_left) {
+        icf.imDesktop(98, middleware_web_point);
+        server = target_kernel.webLink(inboxSpoolingPage, nybbleLeft) +
+                modifier;
+        cableCron.fat_whois_panel.hexadecimal(ppc + padTruncate);
+    }
+
+Ut doliturus quoque. Meus vero et, vincemur horamque simul explorant omnia.
+Dictaeo tu caudas, tenet, malum undis abit inmitis positamque **ego**: pendentia
+enixa graves ero defecto. [Viro](http://omne.com/caicus.aspx) haec unde
+haerentem regnabat sollicita suisque! Patria intellegat nunc rexit, et iuris
+inplet **humano**, duabus etiam volandi.
+
+Admonitorque vitae leones et, et lupos modo placido saltem **haustis**. Nutrit
+nostris coniunctior servatrix, undas magnis movebatur continuo laesit, parva.
+Hunc servitii tu sacra.
 
