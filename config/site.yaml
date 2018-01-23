@@ -7,10 +7,6 @@ blog:
 metadata:
     description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
 
-sidebar_widget:
-  title: Some Text Widget
-  body: Lorem ipsum **dolor sit amet**, consectetur adipisicing elit, sed do eiusmod tempor [incididunt](#) ut labore et dolore magna.
-
 taxonomies: [category,tag,month]
 redirects:
     /changelog: /blog/the-urban-jungle
