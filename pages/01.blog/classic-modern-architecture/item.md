@@ -1,16 +1,19 @@
 ---
-title: Classic Modern Architecture
-date: 17:34 06/27/2017 
-
-subtitle: finding beauty in structure
-
-hero_classes: text-dark title-h1h2 overlay-light hero-large parallax
-hero_image: unsplash-luca-bravo.jpg
-show_sidebar: false
-
+title: 'Classic Modern Architecture'
+date: '17:34 06/27/2017'
 taxonomy:
-    category: blog
-    tag: [architecture, photography]
+    category:
+        - blog
+    tag:
+        - photography
+        - architecture
+hero_classes: 'text-dark title-h1h2 overlay-light hero-large parallax'
+hero_image: unsplash-luca-bravo.jpg
+blog_url: /blog
+show_sidebar: false
+show_breadcrumbs: true
+show_pagination: true
+subtitle: 'finding beauty in structure'
 ---
 
 Lorem markdownum timore *in*, dant litora texit late **fecisse**. Sinistra ad
