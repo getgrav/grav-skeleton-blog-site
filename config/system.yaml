@@ -2,7 +2,7 @@ home:
   alias: '/blog'
 
 pages:
-  theme: antimatter
+  theme: quark
   process:
     markdown: true
     twig: false
