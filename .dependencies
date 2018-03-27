@@ -43,9 +43,9 @@ git:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         branch: master
-    antimatter:
-        url: https://github.com/getgrav/grav-theme-antimatter
-        path: user/themes/antimatter
+    quark:
+        url: https://github.com/getgrav/grav-theme-quark
+        path: user/themes/quark
         branch: master
 links:
     archives:
@@ -92,7 +92,7 @@ links:
         src: grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         scm: github
-    antimatter:
-        src: grav-theme-antimatter
-        path: user/themes/antimatter
+    quark:
+        src: grav-theme-quark
+        path: user/themes/quark
         scm: github

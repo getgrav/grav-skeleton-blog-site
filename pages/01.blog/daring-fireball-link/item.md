@@ -1,6 +1,6 @@
 ---
-title: Just Some Text Today
-date: 13:34 07/10/2014
+title: DF Style Article Link
+date: 13:34 07/23/2017
 continue_link: true
 link: http://daringfireball.net
 taxonomy:
