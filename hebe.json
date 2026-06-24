@@ -9,6 +9,27 @@
                   "destination":"/user"
                }
             ],
+            "admin2 plugin":[{
+               "project":"grav-plugin-admin2"
+            }],
+            "api plugin":[{
+               "project":"grav-plugin-api"
+            }],
+            "flex-objects plugin":[{
+               "project":"grav-plugin-flex-objects"
+            }],
+            "form plugin":[{
+               "project":"grav-plugin-form"
+            }],
+            "login plugin":[{
+               "project":"grav-plugin-login"
+            }],
+            "email plugin":[{
+               "project":"grav-plugin-email"
+            }],
+            "archives plugin":[{
+               "project":"grav-plugin-archives"
+            }],
             "breadcrumbs plugin":[{
                "project":"grav-plugin-breadcrumbs"
             }],
@@ -27,14 +48,20 @@
             "random plugin":[{
                "project":"grav-plugin-random"
             }],
+            "relatedpages plugin":[{
+               "project":"grav-plugin-relatedpages"
+            }],
+            "simplesearch plugin":[{
+               "project":"grav-plugin-simplesearch"
+            }],
             "sitemap plugin":[{
                "project":"grav-plugin-sitemap"
             }],
             "taxonomylist plugin":[{
                "project":"grav-plugin-taxonomylist"
             }],
-            "antimatter theme":[{
-               "project":"grav-theme-antimatter"
+            "quark2 theme":[{
+               "project":"grav-theme-quark2"
             }]
          }
       }

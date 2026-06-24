@@ -1,6 +1,6 @@
 # Grav Blog Site Skeleton
 
-The *Blog Site* skeleton is a [Grav](http://github.com/getgrav/grav) skeleton and includes a *user* folder giving an example of a blog set up using Grav.
+The *Blog Site* skeleton is a [Grav](http://github.com/getgrav/grav) skeleton and includes a *user* folder giving an example of a blog set up using Grav. It is built for **Grav 2** with the [Quark2](https://github.com/getgrav/grav-theme-quark2) theme and the **Admin Next** stack.
 
 # Installation
 
@@ -12,4 +12,4 @@ You should now have all the skeleton files under
 
 	/your/site/grav/user/
 
->> NOTE: This skeleton is a modular component for Grav which requires [Grav](http://github.com/getgrav/grav), the [Error](https://github.com/getgrav/grav-plugin-error) and [Problems](https://github.com/getgrav/grav-plugin-problems) plugins, and a theme to be installed in order to operate. If you download this skeleton as part of a pre-assembled package from [GetGrav.org](http://getgrav.org/downloads/skeletons#extras), you should have everything you need to get started.
+>> NOTE: This skeleton is a modular component for Grav which requires [Grav](http://github.com/getgrav/grav), the [Quark2](https://github.com/getgrav/grav-theme-quark2) theme, and the Admin Next stack ([Admin2](https://github.com/getgrav/grav-plugin-admin2), [API](https://github.com/getgrav/grav-plugin-api), [Flex Objects](https://github.com/trilbymedia/grav-plugin-flex-objects), [Form](https://github.com/getgrav/grav-plugin-form), [Login](https://github.com/getgrav/grav-plugin-login)) along with the [Error](https://github.com/getgrav/grav-plugin-error) and [Problems](https://github.com/getgrav/grav-plugin-problems) plugins to operate. If you download this skeleton as part of a pre-assembled package from [GetGrav.org](http://getgrav.org/downloads/skeletons#extras), you should have everything you need to get started.
