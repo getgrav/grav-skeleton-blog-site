@@ -1,5 +1,5 @@
 name: Blog Site
-version: 3.0.1
+version: 3.0.2
 description: "The **Blog Skeleton** for **Grav 2** based on the **Quark2** theme and **Admin Next**, providing sample blog content and plugins including: **Pagination**, **Breadcrumbs**, and **Taxonomy List**."
 icon: comments
 author:

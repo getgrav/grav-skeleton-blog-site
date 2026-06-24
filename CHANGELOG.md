@@ -1,3 +1,9 @@
+# v3.0.2
+## 06/24/2026
+
+1. [](#bugfix)
+    * Disabled the pagination plugin's built-in CSS so the theme draws the pagination, removing the square border around the rounded buttons
+
 # v3.0.1
 ## 06/24/2026
 
