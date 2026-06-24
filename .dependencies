@@ -1,53 +1,101 @@
 git:
+    admin2:
+        url: https://github.com/getgrav/grav-plugin-admin2
+        path: user/plugins/admin2
+        branch: develop
+    api:
+        url: https://github.com/getgrav/grav-plugin-api
+        path: user/plugins/api
+        branch: develop
+    flex-objects:
+        url: https://github.com/trilbymedia/grav-plugin-flex-objects
+        path: user/plugins/flex-objects
+        branch: develop
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: develop
+    login:
+        url: https://github.com/getgrav/grav-plugin-login
+        path: user/plugins/login
+        branch: develop
+    email:
+        url: https://github.com/getgrav/grav-plugin-email
+        path: user/plugins/email
+        branch: develop
     archives:
         url: https://github.com/getgrav/grav-plugin-archives
         path: user/plugins/archives
-        branch: master
+        branch: develop
     breadcrumbs:
         url: https://github.com/getgrav/grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
-        branch: master
+        branch: develop
     error:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
-        branch: master
+        branch: develop
     feed:
         url: https://github.com/getgrav/grav-plugin-feed
         path: user/plugins/feed
-        branch: master
+        branch: develop
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
-        branch: master
+        branch: develop
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
-        branch: master
+        branch: develop
     random:
         url: https://github.com/getgrav/grav-plugin-random
         path: user/plugins/random
-        branch: master
+        branch: develop
     relatedpages:
         url: https://github.com/getgrav/grav-plugin-relatedpages
         path: user/plugins/relatedpages
-        branch: master    
+        branch: develop
     simplesearch:
         url: https://github.com/getgrav/grav-plugin-simplesearch
         path: user/plugins/simplesearch
-        branch: master
+        branch: develop
     sitemap:
         url: https://github.com/getgrav/grav-plugin-sitemap
         path: user/plugins/sitemap
-        branch: master
+        branch: develop
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
-        branch: master
-    quark:
-        url: https://github.com/getgrav/grav-theme-quark
-        path: user/themes/quark
-        branch: master
+        branch: develop
+    quark2:
+        url: https://github.com/getgrav/grav-theme-quark2
+        path: user/themes/quark2
+        branch: develop
 links:
+    admin2:
+        src: grav-plugin-admin2
+        path: user/plugins/admin2
+        scm: github
+    api:
+        src: grav-plugin-api
+        path: user/plugins/api
+        scm: github
+    flex-objects:
+        src: grav-plugin-flex-objects
+        path: user/plugins/flex-objects
+        scm: github
+    form:
+        src: grav-plugin-form
+        path: user/plugins/form
+        scm: github
+    login:
+        src: grav-plugin-login
+        path: user/plugins/login
+        scm: github
+    email:
+        src: grav-plugin-email
+        path: user/plugins/email
+        scm: github
     archives:
         src: grav-plugin-archives
         path: user/plugins/archives
@@ -79,7 +127,7 @@ links:
     relatedpages:
         src: grav-plugin-relatedpages
         path: user/plugins/relatedpages
-        scm: github    
+        scm: github
     simplesearch:
         src: grav-plugin-simplesearch
         path: user/plugins/simplesearch
@@ -92,7 +140,7 @@ links:
         src: grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         scm: github
-    quark:
-        src: grav-theme-quark
-        path: user/themes/quark
+    quark2:
+        src: grav-theme-quark2
+        path: user/themes/quark2
         scm: github

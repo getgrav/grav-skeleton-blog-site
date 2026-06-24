@@ -1,3 +1,12 @@
+# v3.0.0
+## 06/24/2026
+
+1. [](#new)
+    * Updated for **Grav 2** with the **Quark2** theme and **Admin Next**
+    * Bundled the Admin Next stack (admin2, api, flex-objects, form, login, email) so the skeleton is ready to use out of the box
+1. [](#bugfix)
+    * Fixed the home page hero pointing at a missing `road.jpg` image
+
 # v2.0.0
 ## 03/26/2018
 

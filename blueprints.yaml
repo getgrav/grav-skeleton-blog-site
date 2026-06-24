@@ -1,6 +1,6 @@
 name: Blog Site
-version: 2.0.0
-description: "The **Blog Skeleton** based on Quark theme that provides you with sample blog content and plugins including: **Pagination**, **Breadcrumbs**, and **Taxonomy List**."
+version: 3.0.0
+description: "The **Blog Skeleton** for **Grav 2** based on the **Quark2** theme and **Admin Next**, providing sample blog content and plugins including: **Pagination**, **Breadcrumbs**, and **Taxonomy List**."
 icon: comments
 author:
   name: Team Grav
@@ -8,6 +8,6 @@ author:
   url: http://getgrav.org
 homepage: https://github.com/getgrav/grav-skeleton-blog-site
 demo: http://demo.getgrav.org/blog-skeleton
-keywords: blog, quark, skeleton, pagination, breadcrumbs, taxonomy, archives, relatedpages
+keywords: blog, quark2, grav2, skeleton, pagination, breadcrumbs, taxonomy, archives, relatedpages
 bugs: https://github.com/getgrav/grav-skeleton-blog-site/issues
 license: MIT
