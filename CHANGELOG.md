@@ -1,3 +1,10 @@
+# v3.0.1
+## 06/24/2026
+
+1. [](#bugfix)
+    * Removed a leftover duplicate "DaringFireball Style Link" sample post
+    * Fixed a square outline showing around the active pagination button in dark mode
+
 # v3.0.0
 ## 06/24/2026
 
