@@ -1,3 +1,9 @@
+# v3.0.3
+## 06/24/2026
+
+1. [](#improved)
+    * Updated the bundled Quark2 theme to 1.1.2, which finalizes the pagination button styling
+
 # v3.0.2
 ## 06/24/2026
 
