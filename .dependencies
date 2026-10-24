@@ -1,76 +1,76 @@
 git:
     admin2:
-        url: https://github.com/getgrav/grav-plugin-admin2
+        url: 'https://github.com/getgrav/grav-plugin-admin2'
         path: user/plugins/admin2
-        branch: develop
+        branch: main
     api:
-        url: https://github.com/getgrav/grav-plugin-api
+        url: 'https://github.com/getgrav/grav-plugin-api'
         path: user/plugins/api
-        branch: develop
+        branch: main
     flex-objects:
-        url: https://github.com/trilbymedia/grav-plugin-flex-objects
+        url: 'https://github.com/trilbymedia/grav-plugin-flex-objects'
         path: user/plugins/flex-objects
-        branch: develop
+        branch: master
     form:
-        url: https://github.com/getgrav/grav-plugin-form
+        url: 'https://github.com/getgrav/grav-plugin-form'
         path: user/plugins/form
-        branch: develop
+        branch: master
     login:
-        url: https://github.com/getgrav/grav-plugin-login
+        url: 'https://github.com/getgrav/grav-plugin-login'
         path: user/plugins/login
-        branch: develop
+        branch: master
     email:
-        url: https://github.com/getgrav/grav-plugin-email
+        url: 'https://github.com/getgrav/grav-plugin-email'
         path: user/plugins/email
-        branch: develop
+        branch: master
     archives:
-        url: https://github.com/getgrav/grav-plugin-archives
+        url: 'https://github.com/getgrav/grav-plugin-archives'
         path: user/plugins/archives
-        branch: develop
+        branch: master
     breadcrumbs:
-        url: https://github.com/getgrav/grav-plugin-breadcrumbs
+        url: 'https://github.com/getgrav/grav-plugin-breadcrumbs'
         path: user/plugins/breadcrumbs
-        branch: develop
+        branch: master
     error:
-        url: https://github.com/getgrav/grav-plugin-error
+        url: 'https://github.com/getgrav/grav-plugin-error'
         path: user/plugins/error
-        branch: develop
+        branch: master
     feed:
-        url: https://github.com/getgrav/grav-plugin-feed
+        url: 'https://github.com/getgrav/grav-plugin-feed'
         path: user/plugins/feed
-        branch: develop
+        branch: master
     pagination:
-        url: https://github.com/getgrav/grav-plugin-pagination
+        url: 'https://github.com/getgrav/grav-plugin-pagination'
         path: user/plugins/pagination
-        branch: develop
+        branch: master
     problems:
-        url: https://github.com/getgrav/grav-plugin-problems
+        url: 'https://github.com/getgrav/grav-plugin-problems'
         path: user/plugins/problems
-        branch: develop
+        branch: master
     random:
-        url: https://github.com/getgrav/grav-plugin-random
+        url: 'https://github.com/getgrav/grav-plugin-random'
         path: user/plugins/random
-        branch: develop
+        branch: master
     relatedpages:
-        url: https://github.com/getgrav/grav-plugin-relatedpages
+        url: 'https://github.com/getgrav/grav-plugin-relatedpages'
         path: user/plugins/relatedpages
-        branch: develop
+        branch: master
     simplesearch:
-        url: https://github.com/getgrav/grav-plugin-simplesearch
+        url: 'https://github.com/getgrav/grav-plugin-simplesearch'
         path: user/plugins/simplesearch
-        branch: develop
+        branch: master
     sitemap:
-        url: https://github.com/getgrav/grav-plugin-sitemap
+        url: 'https://github.com/getgrav/grav-plugin-sitemap'
         path: user/plugins/sitemap
-        branch: develop
+        branch: master
     taxonomylist:
-        url: https://github.com/getgrav/grav-plugin-taxonomylist
+        url: 'https://github.com/getgrav/grav-plugin-taxonomylist'
         path: user/plugins/taxonomylist
-        branch: develop
+        branch: master
     quark2:
-        url: https://github.com/getgrav/grav-theme-quark2
+        url: 'https://github.com/getgrav/grav-theme-quark2'
         path: user/themes/quark2
-        branch: develop
+        branch: main
 links:
     admin2:
         src: grav-plugin-admin2

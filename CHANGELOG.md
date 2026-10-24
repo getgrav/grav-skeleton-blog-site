@@ -1,3 +1,9 @@
+# v3.0.4
+## 10/24/2026
+
+1. [](#improved)
+    * The package now installs the released version of every plugin and theme rather than their development branches
+
 # v3.0.3
 ## 06/24/2026
 
